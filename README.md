@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Reynaldi Satriawan 👋</h1>
 
 <p align="center">
-  <b>Fullstack Developer · React · Next.js · TypeScript</b><br/>
+  <b>Fullstack Developer · React · Next.js · TypeScript · PHP · Codeigniter 3</b><br/>
   Surabaya, Indonesia 🇮🇩
 </p>
 
