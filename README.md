@@ -72,9 +72,9 @@ Pasti Jadi Digital Solutions
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderey-tf&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderey-tf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&cache_seconds=1800" height="150" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderey-tf&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=e0af68" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderey-tf&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&cache_seconds=1800" height="150" />
 </div>
 
 ---
